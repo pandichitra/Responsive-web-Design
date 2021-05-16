@@ -1,0 +1,15 @@
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>
+__________________________________________________________________________________________________________________________________________________________________________________
+https://www.quackit.com/css/css_color_codes.cfm- LINK WHERE U CAN FIND ALL THE COLOR CODES .CHEERS!!
+__________________________________________________________________________________________________________________________________________________________________________________-
+In CSS, we can use 6 hexadecimal digits to represent colors, two each for the red (R), green (G), and blue (B) components. For example, #000000 is black and is also the lowest possible value. You can find more information about the RGB color system here.
+
+body {
+  color: #000000;
+}
+Replace the word black in our body element's background-color with its hex code representation, #000000.
+FACE MELTING GUITAR SOLO!!!
