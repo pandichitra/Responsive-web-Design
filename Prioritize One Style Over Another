@@ -15,6 +15,10 @@ TASK IS:
 #Create a CSS class called pink-text that gives an element the color pink.
 
 #Give your h1 element the class of pink-text
+
+Answer: Our pink-text class overrode our body element's CSS declaration!
+
+We just proved that our classes will override the body element's CSS.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sometimes your HTML elements will receive multiple styles that conflict with one another.
 
